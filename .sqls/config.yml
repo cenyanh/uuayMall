@@ -1,0 +1,5 @@
+
+connections:
+  - alias: "my_project"
+    driver: "mysql"
+    dataSourceName: "root:root@tcp(localhost:3306)/sky_take_out"
